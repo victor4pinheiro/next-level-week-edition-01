@@ -28,7 +28,8 @@ Ecoleta is a cross platform based on International Environment Week created to c
 ### Prerequisites
 
 * [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/en/)
+* [Node.js](https://nodejs.org/en/) - 12.17.0
+* npm - 6.14.5
 * [Yarn](https://yarnpkg.com/) (optional)
 
 ### Installation
@@ -57,6 +58,14 @@ Ecoleta is a cross platform based on International Environment Week created to c
   ```
 
 2. Frontend
+  <p>Home</p>
+  <img src="img/home-page.png" alt="Home page">
+
+  <p>Cadastro de Ponto de Coleta (Register of collect points)</p>
+  <img src="img/create-point-01.png" alt="Create PointImage 01">
+  <img src="img/create-point-02.png" alt="Create PointImage 02">
+  <img src="img/create-point-03.png" alt="Create PointImage 03">
+
   ```
   # Clone repository web-nlw
   $ git clone https://github.com/victor4pinheiro/web-nlw
