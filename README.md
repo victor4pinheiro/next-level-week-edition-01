@@ -34,7 +34,7 @@ Ecoleta is a cross platform based on International Environment Week created to c
 
 ### Installation
 
-1. API (Backend)
+#### API (Backend)
   ```
   # Clone repository backend-nlw
   $ git clone https://github.com/victor4pinheiro/backend-nlw
@@ -57,7 +57,7 @@ Ecoleta is a cross platform based on International Environment Week created to c
   # running on port 3333
   ```
 
-2. Frontend
+#### Frontend
   <p>Home</p>
   <img src="img/home-page.png" alt="Home page">
 
@@ -81,7 +81,7 @@ Ecoleta is a cross platform based on International Environment Week created to c
 
   # running on port 3000
   ```
-3. Mobile
+#### Mobile
 
 <p align="center">
   <img src="img/01-home-mobile.jpg" width="30%">
