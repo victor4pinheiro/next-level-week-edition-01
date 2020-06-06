@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg">
+  <img src="img/logo.svg">
 </p>
 
 # :rocket: Next Level Week
@@ -10,7 +10,7 @@ NLW is a practical week with lots of code, challenges, networking and a single o
 Ecoleta is a cross platform based on International Environment Week created to connect people to companies that collect specific waste sush as light bulbs, batteries, cooking oil etc.
 
 <p align="center">
-  <img src="presentation-project.svg">
+  <img src="img/presentation-project.svg">
 </p>
 
 
@@ -73,6 +73,13 @@ Ecoleta is a cross platform based on International Environment Week created to c
   # running on port 3000
   ```
 3. Mobile
+
+<p align="center">
+  <img src="img/01-home-mobile.jpg" width="30%">
+  <img src="img/02-point-mobile.jpg" width="30%">
+  <img src="img/03-detail-mobile.jpg" width="30%">
+</p>
+
   ```
   # Clone repository mobile-nlw
   $ git clone https://github.com/victor4pinheiro/web-nlw
