@@ -91,7 +91,7 @@ Ecoleta is a cross platform based on International Environment Week created to c
 
   ```
   # Clone repository mobile-nlw
-  $ git clone https://github.com/victor4pinheiro/web-nlw
+  $ git clone https://github.com/victor4pinheiro/mobile-nlw
 
   # Go into the repository
   $ cd mobile-nlw
